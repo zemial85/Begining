@@ -1,0 +1,2 @@
+# Begining
+Python entry level.
